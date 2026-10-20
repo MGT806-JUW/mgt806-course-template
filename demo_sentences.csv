@@ -1,0 +1,10 @@
+set,label,text
+negation_1,positive,The merger will significantly increase shareholder value.
+negation_1,negated,The merger will not increase shareholder value.
+negation_2,positive,Remote work improved team productivity.
+negation_2,negated,Remote work did not improve team productivity.
+negation_3,positive,The supplier met every quality requirement in the contract.
+negation_3,negated,The supplier failed to meet the quality requirements in the contract.
+triple,A,Staff turnover among junior analysts is unusually high this year.
+triple,B,We are losing a lot of our early-career employees.
+triple,C,Container freight rates fell for the third consecutive month.

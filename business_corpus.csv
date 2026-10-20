@@ -1,0 +1,127 @@
+doc_id,theme,text
+D001,supply_chain,"Container dwell times at Karachi Port rose sharply last quarter, pushing inland haulage costs up for textile exporters."
+D002,supply_chain,We moved to dual sourcing for cotton yarn after a single supplier failure halted two production lines for eleven days.
+D003,supply_chain,"Our third-party logistics provider now consolidates shipments weekly, which cut per-unit freight cost but added two days of transit."
+D004,supply_chain,Demand forecasting errors at the distribution centre are driving both stockouts in the north and overstock in the south.
+D005,supply_chain,"Supplier audits found that two of our tier-two vendors subcontract work without disclosure, creating traceability gaps."
+D006,supply_chain,"Lead times from Chinese component suppliers have stabilised, but ocean freight rates remain volatile month to month."
+D007,supply_chain,"The warehouse management system upgrade reduced pick errors, though staff needed six weeks to reach previous throughput."
+D008,supply_chain,We hold eight weeks of safety stock on imported dyes because customs clearance timing is unpredictable.
+D009,supply_chain,"Cold chain integrity failed twice during the summer, spoiling pharmaceutical consignments in transit to Quetta."
+D010,supply_chain,Reverse logistics for returned garments costs more per item than the original outbound shipment.
+D011,supply_chain,Just-in-time delivery works for our domestic suppliers but not for anything crossing a border.
+D012,supply_chain,Freight consolidation across our three business units was blocked by incompatible enterprise resource planning systems.
+D013,supply_chain,"A port strike in Dubai delayed forty containers, and we had no contractual recourse against the carrier."
+D014,supply_chain,Inventory turnover improved after we discontinued eleven slow-moving stock keeping units.
+D015,supply_chain,"Our procurement team negotiates annually, but spot market prices for packaging materials now move weekly."
+D016,supply_chain,Last-mile delivery in dense urban areas remains our highest cost per parcel and our worst service failure rate.
+D017,supply_chain,"The supplier scorecard weights price at sixty per cent, which explains why quality problems keep recurring."
+D018,supply_chain,Transport fleet utilisation sits at sixty-one per cent because return legs are usually empty.
+D019,supply_chain,"We cannot trace the origin of roughly a third of our raw material by value, which blocks customer certification requests."
+D020,supply_chain,Warehouse labour shortages during harvest season force us to pay overtime premiums every year.
+D021,digital_marketing,Engagement on our Instagram campaign spiked during the launch week and then fell below the pre-campaign baseline.
+D022,digital_marketing,Influencer partnerships generate reach but we cannot attribute any of it to conversion with confidence.
+D023,digital_marketing,Our cost per acquisition on paid search has doubled in eighteen months while conversion rates stayed flat.
+D024,digital_marketing,User-generated content outperforms our studio-produced creative on every engagement metric except brand recall.
+D025,digital_marketing,The micro-influencer cohort delivers better comment quality but far lower impressions than macro accounts.
+D026,digital_marketing,We shifted budget from display advertising to short-form video and saw click-through improve threefold.
+D027,digital_marketing,Audience sentiment turned negative within hours of the pricing announcement and our social team had no response plan.
+D028,digital_marketing,"Email open rates are declining across every segment, though click-to-open held steady for existing customers."
+D029,digital_marketing,Retargeting audiences are shrinking as browser privacy changes limit third-party tracking.
+D030,digital_marketing,Our brand hashtag was appropriated by a competitor's campaign and we had no trademark protection in place.
+D031,digital_marketing,Customer reviews mentioning delivery speed correlate strongly with repeat purchase in our data.
+D032,digital_marketing,The loyalty programme app has high download numbers and very low monthly active use.
+D033,digital_marketing,Seasonal campaigns tied to Ramadan consistently outperform our general-purpose promotional calendar.
+D034,digital_marketing,We A/B tested two landing pages and the difference was not statistically distinguishable from noise.
+D035,digital_marketing,Search engine traffic to our blog collapsed after the last algorithm update and has not recovered.
+D036,digital_marketing,Virtual influencers cost less per post but audiences discount their product endorsements heavily.
+D037,digital_marketing,Our content calendar is built around product launches rather than around what audiences actually search for.
+D038,digital_marketing,Word of mouth remains our largest acquisition channel and the one we measure least well.
+D039,digital_marketing,Push notification frequency above three per week correlates with app uninstalls in every cohort.
+D040,digital_marketing,Paid social performs well for awareness and poorly for considered purchases above a certain price point.
+D041,human_resources,Voluntary turnover among analysts in their second year has reached twenty-nine per cent.
+D042,human_resources,Exit interviews consistently cite lack of development opportunity rather than compensation.
+D043,human_resources,Our graduate recruitment pipeline is heavily skewed toward three universities in the same city.
+D044,human_resources,Remote work arrangements improved reported wellbeing but weakened informal knowledge transfer between teams.
+D045,human_resources,Performance appraisal ratings cluster so tightly that they cannot discriminate between employees.
+D046,human_resources,The new onboarding programme cut time to productivity for engineers from fourteen weeks to nine.
+D047,human_resources,Managers report spending a third of their week on administrative approvals rather than on people.
+D048,human_resources,Women are well represented at entry level and almost absent from senior management.
+D049,human_resources,Our training budget is spent almost entirely on technical certification and almost nothing on supervision skills.
+D050,human_resources,Internal promotion rates are far lower than external hiring into the same grades.
+D051,human_resources,"Employee engagement survey response rates fell to thirty-eight per cent, which undermines any inference from it."
+D052,human_resources,Overtime among operations staff has become structural rather than exceptional.
+D053,human_resources,We lose candidates between offer and joining date more often than we lose them at interview.
+D054,human_resources,Succession plans exist on paper for senior roles but no named successor has ever actually been appointed.
+D055,human_resources,Flexible hours reduced absenteeism but complicated shift coverage in customer-facing teams.
+D056,human_resources,"The grievance process is rarely used, which management reads as satisfaction and staff read as futility."
+D057,human_resources,Our compensation benchmarking uses a peer group that no longer reflects where we lose people to.
+D058,human_resources,New joiners rate their first week highly and their first quarter poorly.
+D059,human_resources,Job descriptions have not been revised since before the function was reorganised.
+D060,human_resources,Line managers conduct appraisals without any calibration across departments.
+D061,banking_fintech,Digital wallet adoption grew fastest among customers who had never held a conventional bank account.
+D062,banking_fintech,Branch transaction volumes continue to fall while branch operating costs have not.
+D063,banking_fintech,Our fraud detection model flags too many legitimate transactions during festival periods.
+D064,banking_fintech,"Islamic banking customers cite compliance assurance, not return, as their primary selection criterion."
+D065,banking_fintech,Loan origination moved online but underwriting still requires physical document verification.
+D066,banking_fintech,Mobile banking app crashes during salary week when concurrent load triples.
+D067,banking_fintech,Customer acquisition cost for digital-only accounts is a fraction of branch acquisition but attrition is higher.
+D068,banking_fintech,Regulatory reporting requirements changed twice this year and our data architecture absorbed neither change well.
+D069,banking_fintech,Small business lending is constrained by the absence of reliable financial statements from applicants.
+D070,banking_fintech,Remittance inflows through formal channels rose after informal transfer costs increased.
+D071,banking_fintech,Credit scoring using alternative data improves inclusion but is difficult to explain to a regulator.
+D072,banking_fintech,"Deposit growth is concentrated in current accounts, which weakens our funding stability profile."
+D073,banking_fintech,Our call centre resolves most queries that the app could have handled without human involvement.
+D074,banking_fintech,Customers abandon the digital onboarding flow most often at the identity verification step.
+D075,banking_fintech,Interest rate changes transmit to deposit pricing much more slowly than to lending rates.
+D076,banking_fintech,Cybersecurity incidents are reported internally but rarely discussed at board level.
+D077,banking_fintech,Agent banking extended rural reach but agent liquidity management remains the binding constraint.
+D078,banking_fintech,Cross-selling rates to existing customers are below those of every peer institution we benchmark.
+D079,banking_fintech,Legacy core banking systems make product launch cycles measured in quarters rather than weeks.
+D080,banking_fintech,Trust in digital channels is high for payments and low for savings products among older customers.
+D081,retail_reviews,"Delivery arrived three days late and nobody answered the helpline, but the product itself was fine."
+D082,retail_reviews,"Excellent quality fabric, stitching held up after many washes, though the sizing runs small."
+D083,retail_reviews,The item did not match the photograph on the website and the return process took four weeks.
+D084,retail_reviews,"Good value for the price, packaging was damaged but contents intact, would order again."
+D085,retail_reviews,"Customer service replaced the faulty unit without argument, which is rare and worth noting."
+D086,retail_reviews,Battery life is far shorter than advertised and the manual is only in English.
+D087,retail_reviews,"Fast delivery, courteous rider, product exactly as described, no complaints at all."
+D088,retail_reviews,Paid for express shipping and it arrived on the standard schedule with no refund offered.
+D089,retail_reviews,"The fit is perfect and the colour is accurate, but the price increased within a week of my order."
+D090,retail_reviews,"Received the wrong size twice in a row, which suggests a warehouse picking problem rather than bad luck."
+D091,retail_reviews,Installation instructions were unclear and the support chat was an unhelpful automated system.
+D092,retail_reviews,"Beautiful finish and sturdier than expected for this price point, genuinely impressed."
+D093,retail_reviews,"Three of the twelve pieces were cracked on arrival, clearly a packing issue not a courier issue."
+D094,retail_reviews,"Ordering was simple, tracking was accurate, and the product arrived a day early."
+D095,retail_reviews,The discount advertised on the homepage did not apply at checkout and nobody could explain why.
+D096,retail_reviews,"Comfortable and well made, though it smells strongly of chemicals for the first few days."
+D097,retail_reviews,App crashed during payment and I was charged twice; the refund took eleven days.
+D098,retail_reviews,Quality has declined noticeably compared to the same item I bought two years ago.
+D099,retail_reviews,"Prompt replacement after a manufacturing defect, handled entirely over WhatsApp, very efficient."
+D100,retail_reviews,Product is good but the aggressive marketing messages afterwards made me unsubscribe entirely.
+D101,sustainability_esg,Our scope three emissions are dominated by purchased goods and we have no primary data for them.
+D102,sustainability_esg,The sustainability report describes targets without disclosing the baseline year used to calculate them.
+D103,sustainability_esg,"Water usage per unit of output fell, but absolute consumption rose with production volume."
+D104,sustainability_esg,Buyers in the European market now require supplier-level environmental disclosure as a contract condition.
+D105,sustainability_esg,We committed publicly to a net zero target with no internal implementation plan attached to it.
+D106,sustainability_esg,Energy efficiency investments in the dyeing unit paid back in under two years and nobody expected that.
+D107,sustainability_esg,Third-party assurance covers our environmental metrics but not our social ones.
+D108,sustainability_esg,Waste segregation improved at the plant but recycled material still reaches landfill through the contractor.
+D109,sustainability_esg,Our board has no member with assessed competence in environmental or social risk.
+D110,sustainability_esg,Reported improvements in labour conditions were not corroborated by independent worker interviews.
+D111,sustainability_esg,"The carbon accounting methodology changed between reports, making the trend line meaningless."
+D112,sustainability_esg,Community investment spending is reported in aggregate with no outcome measurement of any kind.
+D113,sustainability_esg,Solar installation now covers nineteen per cent of plant load and payback is tracking ahead of projection.
+D114,sustainability_esg,Sustainability claims in marketing material exceed what the underlying data can support.
+D115,sustainability_esg,Supplier codes of conduct are signed universally and audited selectively.
+D116,sustainability_esg,"Employee health and safety incidents fell, though near-miss reporting also fell, which is ambiguous."
+D117,sustainability_esg,Investors ask about transition risk; our disclosures address only physical risk.
+D118,sustainability_esg,The materiality assessment has not been revisited since the business entered two new markets.
+D119,sustainability_esg,Chemical substitution in the finishing process cut hazardous waste by a third.
+D120,sustainability_esg,"We report against a framework our largest customers do not use, so the data is rarely read."
+D121,boundary,"Switching to rail freight cut both our logistics cost and our transport emissions, so the business case was never purely environmental."
+D122,boundary,Our green packaging campaign was built entirely around supply chain changes the marketing team did not understand.
+D123,boundary,"We hired three sustainability analysts, but the role sits in procurement and reports to supply chain."
+D124,boundary,Customers increasingly review our delivery emissions alongside delivery speed in the same feedback form.
+D125,boundary,"The fintech lending product is marketed on inclusion, which is simultaneously a social metric and an acquisition claim."
+D126,boundary,Staff turnover in the warehouse is the single largest driver of our picking error rate and therefore of customer complaints.
